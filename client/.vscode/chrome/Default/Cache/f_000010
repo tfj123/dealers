@@ -1,0 +1,640 @@
+_CCSettings = {
+    "designWidth": 750,
+    "designHeight": 1334,
+    "groupList": [
+        "default"
+    ],
+    "collisionMatrix": [
+        [
+            true
+        ]
+    ],
+    "rawAssets": {
+        "assets": {
+            "79bef726-3953-45cb-ab6b-010a13982440": [
+                "resources/prefabes/page_charge/page_charge.prefab",
+                "cc.Prefab"
+            ],
+            "5ee95758-a621-4f33-bbec-981e65d79ea8": [
+                "resources/prefabes/page_dealer/dealer_item_script.js",
+                "cc.JavaScript"
+            ],
+            "8b92638e-2a4a-4557-a334-bcab2c363ad7": [
+                "resources/prefabes/page_dealer/dealer_item.prefab",
+                "cc.Prefab"
+            ],
+            "9b4acc07-09ab-4ebd-8870-7a87715eb0d6": [
+                "resources/prefabes/page_dealer/page_create_dealer_script.js",
+                "cc.JavaScript"
+            ],
+            "b1b2bb5e-621b-4958-9629-3dc6520af47f": [
+                "resources/prefabes/page_dealer/page_create_dealer.prefab",
+                "cc.Prefab"
+            ],
+            "505d4558-5093-4089-96ea-4461ef2983b0": [
+                "resources/prefabes/page_dealer/page_dealer_script.js",
+                "cc.JavaScript"
+            ],
+            "7696107f-081b-441c-9215-42a2f4fa0632": [
+                "resources/prefabes/page_dealer/page_dealer.prefab",
+                "cc.Prefab"
+            ],
+            "a71887a6-08c5-4263-b0b7-3c320cfbe3a0": [
+                "resources/prefabes/page_dealer/page_search_dealer_script.js",
+                "cc.JavaScript"
+            ],
+            "60b3a6ff-0c45-4b95-9c0c-c04f2011f223": [
+                "resources/prefabes/page_dealer/page_search_dealer.prefab",
+                "cc.Prefab"
+            ],
+            "01659af7-3734-4fee-ac90-f23420609fd5": [
+                "resources/prefabes/page_detail/page_detail_script.js",
+                "cc.JavaScript"
+            ],
+            "82795337-4e61-4117-9f67-fb9b43ee65cf": [
+                "resources/prefabes/page_detail/page_detail.prefab",
+                "cc.Prefab"
+            ],
+            "f3ccba30-6b29-4b3c-8dee-b25a4c8ce193": [
+                "resources/prefabes/page_index/option_item_script.js",
+                "cc.JavaScript"
+            ],
+            "aae2566c-e895-4a7d-bf57-5158330b6aba": [
+                "resources/prefabes/page_index/option_item.prefab",
+                "cc.Prefab"
+            ],
+            "0c920ec9-a178-475a-b810-7ddd62ba6a13": [
+                "resources/prefabes/page_index/page_index_script.js",
+                "cc.JavaScript"
+            ],
+            "127c347a-2c44-42ba-ae4a-43a9279b5584": [
+                "resources/prefabes/page_index/page_index.prefab",
+                "cc.Prefab"
+            ],
+            "c9a0636e-c8ef-4ab6-8176-3ab3cdae267e": [
+                "resources/prefabes/page_kpi/kpi_item_script.js",
+                "cc.JavaScript"
+            ],
+            "a860def9-ef83-4160-bd4f-06c5ab3ba95e": [
+                "resources/prefabes/page_kpi/kpi_item.prefab",
+                "cc.Prefab"
+            ],
+            "27eaca2c-8f6d-444d-bfe1-21aa214cf575": [
+                "resources/prefabes/page_kpi/page_kpi_script.js",
+                "cc.JavaScript"
+            ],
+            "4a459259-2eec-4cc1-b61a-9cb46683cce6": [
+                "resources/prefabes/page_kpi/page_kpi.prefab",
+                "cc.Prefab"
+            ],
+            "0bd9d631-4aa2-46f6-ba7b-d1bc61d005e8": [
+                "resources/prefabes/page_login/page_login_script.js",
+                "cc.JavaScript"
+            ],
+            "bd67cce6-dc17-4241-81f8-c6e37c71a7b8": [
+                "resources/prefabes/page_login/page_login.prefab",
+                "cc.Prefab"
+            ],
+            "29f31d42-84e1-4498-a48c-239ca262a1c3": [
+                "resources/prefabes/page_menu/menu_item_script.js",
+                "cc.JavaScript"
+            ],
+            "3e721be5-9a61-425f-a28a-e35aa8b2ccd1": [
+                "resources/prefabes/page_menu/menu_item.prefab",
+                "cc.Prefab"
+            ],
+            "7e2885e9-949a-44a0-8197-cb7176cf03fb": [
+                "resources/prefabes/page_menu/page_menu_script.js",
+                "cc.JavaScript"
+            ],
+            "e580e14c-3909-49ee-939c-7f1845ca3230": [
+                "resources/prefabes/page_menu/page_menu.prefab",
+                "cc.Prefab"
+            ],
+            "9fa15067-1ff4-4120-aa3a-937a665a10b0": [
+                "resources/prefabes/page_mine/page_mine_script.js",
+                "cc.JavaScript"
+            ],
+            "6024fde5-c9f2-4ac1-b19c-4ad5827863e3": [
+                "resources/prefabes/page_mine/page_mine.prefab",
+                "cc.Prefab"
+            ],
+            "ec62a2b1-1be6-42d9-9a0e-20c6d9e69bc6": [
+                "resources/prefabes/page_notice/notice_item_script.js",
+                "cc.JavaScript"
+            ],
+            "16041d8b-1b10-4005-a6df-a07bc6b2d0d0": [
+                "resources/prefabes/page_notice/notice_item.prefab",
+                "cc.Prefab"
+            ],
+            "4cfa9eeb-c66f-4cad-81f0-3711becadfb3": [
+                "resources/prefabes/page_notice/page_notice_script.js",
+                "cc.JavaScript"
+            ],
+            "eef21e56-3ed6-4e63-880d-3b20d79a8795": [
+                "resources/prefabes/page_notice/page_notice.prefab",
+                "cc.Prefab"
+            ],
+            "f03d7a18-837d-40af-95c6-ae5fa1943eec": [
+                "resources/prefabes/page_pwd/page_pwd_script.js",
+                "cc.JavaScript"
+            ],
+            "87c6408f-fa5f-4fee-bf31-dfd9dd3b3314": [
+                "resources/prefabes/page_pwd/page_pwd.prefab",
+                "cc.Prefab"
+            ],
+            "d0492482-0390-46b7-8099-cbf9e1455d7e": [
+                "resources/prefabes/page_sell/page_charge_dealer_script.js",
+                "cc.JavaScript"
+            ],
+            "859b2f26-457d-44cf-904f-e341c1d2357e": [
+                "resources/prefabes/page_sell/page_charge_dealer.prefab",
+                "cc.Prefab"
+            ],
+            "92ea4ffd-dc9d-46b9-85e9-cf52e08ffda4": [
+                "resources/prefabes/page_sell/page_charge_user_script.js",
+                "cc.JavaScript"
+            ],
+            "952f12ec-baa5-4161-955a-16f83158d3b5": [
+                "resources/prefabes/page_sell/page_charge_user.prefab",
+                "cc.Prefab"
+            ],
+            "0a31b4ef-29ea-40db-ab8f-86771e9453fc": [
+                "resources/prefabes/page_sell/page_sell_script.js",
+                "cc.JavaScript"
+            ],
+            "879601fc-55e1-4cd7-b50b-37f9a3900f24": [
+                "resources/prefabes/page_sell/page_sell.prefab",
+                "cc.Prefab"
+            ],
+            "fbceaf8f-ba3d-4527-8bd8-f76372c4bccf": [
+                "resources/prefabes/page_shop_log/page_shop_log_script.js",
+                "cc.JavaScript"
+            ],
+            "c0580c74-be71-4a45-9359-4edc4bd12bd0": [
+                "resources/prefabes/page_shop_log/page_shop_log.prefab",
+                "cc.Prefab"
+            ],
+            "e8aa7a12-2d46-4e26-881e-5a974fac0112": [
+                "resources/prefabes/page_shop_log/shop_log_item_script.js",
+                "cc.JavaScript"
+            ],
+            "729d8089-7899-473f-a10a-386f05394592": [
+                "resources/prefabes/page_shop_log/shop_log_item.prefab",
+                "cc.Prefab"
+            ],
+            "9bd1443c-8a32-41d7-ae65-289bf33ae7f7": [
+                "resources/prefabes/page_shop/goods_item_script.js",
+                "cc.JavaScript"
+            ],
+            "74d32403-57c8-418f-8dc7-f090bac231b4": [
+                "resources/prefabes/page_shop/goods_item.prefab",
+                "cc.Prefab"
+            ],
+            "baaa1913-1512-4983-a8dc-1963df6ea8b8": [
+                "resources/prefabes/page_shop/page_shop_script.js",
+                "cc.JavaScript"
+            ],
+            "2e4ffe93-9e4f-4240-bb9a-5e8ed163ce39": [
+                "resources/prefabes/page_shop/page_shop.prefab",
+                "cc.Prefab"
+            ],
+            "72097c32-99df-40c5-8a7d-38b465c2a6f1": [
+                "resources/textures/bg_bule.png",
+                "cc.Texture2D"
+            ],
+            "c2dfbaf0-2828-478d-bebe-d8f9e10cfb49": [
+                "resources/textures/bg_bule",
+                "cc.SpriteFrame",
+                1
+            ],
+            "0b3623da-f58d-4011-8c3d-a64908228ba2": [
+                "resources/textures/bg_darker.png",
+                "cc.Texture2D"
+            ],
+            "8333f6f9-fe6e-4859-a168-88cef599cbdb": [
+                "resources/textures/bg_darker",
+                "cc.SpriteFrame",
+                1
+            ],
+            "b8410062-0682-48d1-be4b-f80f98489fab": [
+                "resources/textures/bg_lighter.png",
+                "cc.Texture2D"
+            ],
+            "e2d83172-1ef5-491f-98bc-67f649f0547c": [
+                "resources/textures/bg_lighter",
+                "cc.SpriteFrame",
+                1
+            ],
+            "ef713b9b-c3d8-4055-8811-eb17f6abf837": [
+                "resources/textures/bg_round.png",
+                "cc.Texture2D"
+            ],
+            "3e74b69b-b739-41a2-b482-b7664f24bde2": [
+                "resources/textures/bg_round",
+                "cc.SpriteFrame",
+                1
+            ],
+            "cb98601e-af1c-47f2-bda4-72197e6136c1": [
+                "resources/textures/bg_search.png",
+                "cc.Texture2D"
+            ],
+            "9095f430-61b4-4061-a484-6125c5a44b7e": [
+                "resources/textures/bg_search",
+                "cc.SpriteFrame",
+                1
+            ],
+            "b1a3db95-99d4-474b-9f20-1685a845957c": [
+                "resources/textures/btn_freshen.png",
+                "cc.Texture2D"
+            ],
+            "b69b278b-428a-4591-a698-fbaf65f6fc7e": [
+                "resources/textures/btn_freshen",
+                "cc.SpriteFrame",
+                1
+            ],
+            "7a5bde8d-9339-4d69-9fb3-6c04330c3f7c": [
+                "resources/textures/icon_add_dealer_off.png",
+                "cc.Texture2D"
+            ],
+            "69de983a-80cf-4568-b4a0-ddcf78bca8f1": [
+                "resources/textures/icon_add_dealer_off",
+                "cc.SpriteFrame",
+                1
+            ],
+            "9c18a5c4-f23f-4767-a281-0cd648aea763": [
+                "resources/textures/icon_back_b.png",
+                "cc.Texture2D"
+            ],
+            "f840c42d-4afd-400f-8b97-0a6b42f97719": [
+                "resources/textures/icon_back_b",
+                "cc.SpriteFrame",
+                1
+            ],
+            "2c09151e-8e13-4453-ad4e-c42f7e89d30d": [
+                "resources/textures/icon_back_s.png",
+                "cc.Texture2D"
+            ],
+            "acd3f805-f345-4291-a44a-b0c88e1e9560": [
+                "resources/textures/icon_back_s",
+                "cc.SpriteFrame",
+                1
+            ],
+            "ece5110f-e46a-4fe2-98a0-85979c21ac23": [
+                "resources/textures/icon_change_pwd.png",
+                "cc.Texture2D"
+            ],
+            "30d01979-7a31-4938-a5c1-29d1e38c9147": [
+                "resources/textures/icon_change_pwd",
+                "cc.SpriteFrame",
+                1
+            ],
+            "02040264-9093-44f4-8852-ce37708fa7f5": [
+                "resources/textures/icon_create_dealer.png",
+                "cc.Texture2D"
+            ],
+            "0780f563-5c71-48d8-84ca-fa2a08ef8228": [
+                "resources/textures/icon_create_dealer",
+                "cc.SpriteFrame",
+                1
+            ],
+            "4118c459-4f9b-48a4-87cf-fbb31a645d77": [
+                "resources/textures/icon_dealer_off.png",
+                "cc.Texture2D"
+            ],
+            "c46b9a81-2cc5-4738-a762-2c2970bc3bc5": [
+                "resources/textures/icon_dealer_off",
+                "cc.SpriteFrame",
+                1
+            ],
+            "d7558be0-2dcc-4d72-b732-4f7d8f021146": [
+                "resources/textures/icon_dealer_on.png",
+                "cc.Texture2D"
+            ],
+            "7e6f62d1-f5d1-4728-ad14-7a8ed531699f": [
+                "resources/textures/icon_dealer_on",
+                "cc.SpriteFrame",
+                1
+            ],
+            "663f1a95-71c1-48e0-9fc0-4dd7119e8a0b": [
+                "resources/textures/icon_exit.png",
+                "cc.Texture2D"
+            ],
+            "0d383716-610f-49fa-955a-410459b67d54": [
+                "resources/textures/icon_exit",
+                "cc.SpriteFrame",
+                1
+            ],
+            "f96bec2e-a28f-416f-9ede-834c703043c9": [
+                "resources/textures/icon_goods_ad.png",
+                "cc.Texture2D"
+            ],
+            "7d14edfc-9998-4631-9392-cbb028863d8b": [
+                "resources/textures/icon_goods_ad",
+                "cc.SpriteFrame",
+                1
+            ],
+            "8de20edf-9cae-4cf6-9d99-edcd1dc0f0a7": [
+                "resources/textures/icon_goods.png",
+                "cc.Texture2D"
+            ],
+            "dfa5bfa6-6e87-4899-a462-226a0aa92750": [
+                "resources/textures/icon_goods",
+                "cc.SpriteFrame",
+                1
+            ],
+            "c162dac3-3f1f-4345-8fbc-9bc9f2390c3a": [
+                "resources/textures/icon_home_off.png",
+                "cc.Texture2D"
+            ],
+            "915d0217-2728-43e8-9a76-241dca866f2d": [
+                "resources/textures/icon_home_off",
+                "cc.SpriteFrame",
+                1
+            ],
+            "772f2562-1aa1-4a4b-bf89-c808f5a43655": [
+                "resources/textures/icon_home_on.png",
+                "cc.Texture2D"
+            ],
+            "0571a11d-a7aa-4837-805b-8a949f02b0cf": [
+                "resources/textures/icon_home_on",
+                "cc.SpriteFrame",
+                1
+            ],
+            "78d02919-3eb3-4e26-8a5b-34e98a33cd9d": [
+                "resources/textures/icon_into_b.png",
+                "cc.Texture2D"
+            ],
+            "ad281387-6b74-4e1e-aedf-12468b335353": [
+                "resources/textures/icon_into_b",
+                "cc.SpriteFrame",
+                1
+            ],
+            "55a1ab23-d5f6-4cd4-bb3d-8dbf8c2879ca": [
+                "resources/textures/icon_into_s.png",
+                "cc.Texture2D"
+            ],
+            "0ef767ea-1cf9-417a-95fa-2d72fe08dbcc": [
+                "resources/textures/icon_into_s",
+                "cc.SpriteFrame",
+                1
+            ],
+            "a8279f2a-fc58-4eb4-9f70-41926ad165e7": [
+                "resources/textures/icon_kpi.png",
+                "cc.Texture2D"
+            ],
+            "9ec608e7-7ab1-47cb-9427-a49439310e54": [
+                "resources/textures/icon_kpi",
+                "cc.SpriteFrame",
+                1
+            ],
+            "49c8c3a8-21a1-4bb1-a718-ad3ef40bd309": [
+                "resources/textures/icon_lookfor.png",
+                "cc.Texture2D"
+            ],
+            "305563e6-1581-4c7f-a1c4-edd6f0f24857": [
+                "resources/textures/icon_lookfor",
+                "cc.SpriteFrame",
+                1
+            ],
+            "de4da2c0-6a33-4285-848e-43d24c8bb048": [
+                "resources/textures/icon_own_off.png",
+                "cc.Texture2D"
+            ],
+            "6161db19-5c1f-42c2-b6ac-9f0d34376fe6": [
+                "resources/textures/icon_own_off",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e1b2188a-66b9-46a1-8cbe-75002a26334e": [
+                "resources/textures/icon_own_on.png",
+                "cc.Texture2D"
+            ],
+            "8e8e962c-9709-4e9f-bfb1-62b9fee644dd": [
+                "resources/textures/icon_own_on",
+                "cc.SpriteFrame",
+                1
+            ],
+            "4350bf41-5a67-4643-9b1f-7c290fb3ec5e": [
+                "resources/textures/icon_search_dealer.png",
+                "cc.Texture2D"
+            ],
+            "b663333a-a2e9-4621-b9ea-07f1ff67c750": [
+                "resources/textures/icon_search_dealer",
+                "cc.SpriteFrame",
+                1
+            ],
+            "bed58338-46f9-4765-aa3a-3b72039a80ba": [
+                "resources/textures/icon_search.png",
+                "cc.Texture2D"
+            ],
+            "56684f94-87d9-4fb8-86cb-9893c408309f": [
+                "resources/textures/icon_search",
+                "cc.SpriteFrame",
+                1
+            ],
+            "18fed13e-47c7-46ac-acd7-e407a549f099": [
+                "resources/textures/icon_sell_off.png",
+                "cc.Texture2D"
+            ],
+            "8f61b4ac-e3dc-4f19-a872-7fd7100683f0": [
+                "resources/textures/icon_sell_off",
+                "cc.SpriteFrame",
+                1
+            ],
+            "c9297320-7d29-4818-8059-b97aa88e8a2d": [
+                "resources/textures/icon_sell_on.png",
+                "cc.Texture2D"
+            ],
+            "dba6c222-9bb0-46fa-a5ef-2b1bea5652bd": [
+                "resources/textures/icon_sell_on",
+                "cc.SpriteFrame",
+                1
+            ],
+            "96f76f92-d5c5-46e6-b95e-aa2edcc934e4": [
+                "resources/textures/icon_sell.png",
+                "cc.Texture2D"
+            ],
+            "1b6caccc-9cf7-4978-a8d8-585fd4cde791": [
+                "resources/textures/icon_sell",
+                "cc.SpriteFrame",
+                1
+            ],
+            "890c9c08-cf4f-4efb-8141-cbf28f58bb79": [
+                "resources/textures/icon_shop_off.png",
+                "cc.Texture2D"
+            ],
+            "39896237-17eb-4c7d-a6cc-f5e8b4b6221f": [
+                "resources/textures/icon_shop_off",
+                "cc.SpriteFrame",
+                1
+            ],
+            "4e74bb66-5fcc-40ad-909c-9c5947a5187f": [
+                "resources/textures/icon_shop_on.png",
+                "cc.Texture2D"
+            ],
+            "ba532f9f-b940-4be5-933e-d5e9b791a211": [
+                "resources/textures/icon_shop_on",
+                "cc.SpriteFrame",
+                1
+            ],
+            "cba0aee1-48a8-405a-9068-a57e86ab83a1": [
+                "resources/textures/icons/add_card.png",
+                "cc.Texture2D"
+            ],
+            "406cf041-783d-42a2-b715-b64f73b09537": [
+                "resources/textures/icons/add_card",
+                "cc.SpriteFrame",
+                1
+            ],
+            "4bb8c62f-3983-4a1e-8005-af5fc36774f8": [
+                "resources/textures/icons/add_card2.png",
+                "cc.Texture2D"
+            ],
+            "cdf680f9-ca56-4e2d-8270-abb1cb956b98": [
+                "resources/textures/icons/add_card2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e8798b9a-a18b-4e9e-b9ad-69fc63e46035": [
+                "resources/textures/icons/add_dealer.png",
+                "cc.Texture2D"
+            ],
+            "0eb31eb4-cade-42d9-b67c-a8576d267fc5": [
+                "resources/textures/icons/add_dealer",
+                "cc.SpriteFrame",
+                1
+            ],
+            "36925689-74e4-464e-9dab-f6d9e99fd586": [
+                "resources/textures/icons/annoucement.png",
+                "cc.Texture2D"
+            ],
+            "c70f0c9b-ec95-46df-ab4a-e4b659d1583d": [
+                "resources/textures/icons/annoucement",
+                "cc.SpriteFrame",
+                1
+            ],
+            "3e362a0c-9ef5-4fd5-a482-ef07ad86f5bb": [
+                "resources/textures/icons/buy.png",
+                "cc.Texture2D"
+            ],
+            "c125f4d1-3ae5-474c-8344-2a43574fdb2b": [
+                "resources/textures/icons/buy",
+                "cc.SpriteFrame",
+                1
+            ],
+            "2215becf-c51f-42b8-bd3b-7c2c6abe4f29": [
+                "resources/textures/icons/info.png",
+                "cc.Texture2D"
+            ],
+            "90a672de-f189-4937-b1d8-14a7d6f5cc09": [
+                "resources/textures/icons/info",
+                "cc.SpriteFrame",
+                1
+            ],
+            "18c97527-8495-4ddb-af33-89ef161ae79a": [
+                "resources/textures/icons/search.png",
+                "cc.Texture2D"
+            ],
+            "6f8e93c2-23b7-424d-98bc-956ebb9147b1": [
+                "resources/textures/icons/search",
+                "cc.SpriteFrame",
+                1
+            ]
+        },
+        "internal": {
+            "71561142-4c83-4933-afca-cb7a17f67053": [
+                "image/default_btn_disabled.png",
+                "cc.Texture2D"
+            ],
+            "e851e89b-faa2-4484-bea6-5c01dd9f06e2": [
+                "image/default_btn_normal.png",
+                "cc.Texture2D"
+            ],
+            "b43ff3c2-02bb-4874-81f7-f2dea6970f18": [
+                "image/default_btn_pressed.png",
+                "cc.Texture2D"
+            ],
+            "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": [
+                "image/default_panel.png",
+                "cc.Texture2D"
+            ],
+            "99170b0b-d210-46f1-b213-7d9e3f23098a": [
+                "image/default_progressbar_bg.png",
+                "cc.Texture2D"
+            ],
+            "cfef78f1-c8df-49b7-8ed0-4c953ace2621": [
+                "image/default_progressbar.png",
+                "cc.Texture2D"
+            ],
+            "567dcd80-8bf4-4535-8a5a-313f1caf078a": [
+                "image/default_radio_button_off.png",
+                "cc.Texture2D"
+            ],
+            "9d60001f-b5f4-4726-a629-2659e3ded0b8": [
+                "image/default_radio_button_on.png",
+                "cc.Texture2D"
+            ],
+            "4bab67cb-18e6-4099-b840-355f0473f890": [
+                "image/default_scrollbar_bg.png",
+                "cc.Texture2D"
+            ],
+            "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": [
+                "image/default_scrollbar_vertical_bg.png",
+                "cc.Texture2D"
+            ],
+            "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": [
+                "image/default_scrollbar_vertical.png",
+                "cc.Texture2D"
+            ],
+            "0291c134-b3da-4098-b7b5-e397edbe947f": [
+                "image/default_scrollbar.png",
+                "cc.Texture2D"
+            ],
+            "0275e94c-56a7-410f-bd1a-fc7483f7d14a": [
+                "image/default_sprite_splash.png",
+                "cc.Texture2D"
+            ],
+            "6e056173-d285-473c-b206-40a7fff5386e": [
+                "image/default_sprite.png",
+                "cc.Texture2D"
+            ],
+            "73a0903d-d80e-4e3c-aa67-f999543c08f5": [
+                "image/default_toggle_checkmark.png",
+                "cc.Texture2D"
+            ],
+            "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": [
+                "image/default_toggle_disabled.png",
+                "cc.Texture2D"
+            ],
+            "d29077ba-1627-4a72-9579-7b56a235340c": [
+                "image/default_toggle_normal.png",
+                "cc.Texture2D"
+            ],
+            "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": [
+                "image/default_toggle_pressed.png",
+                "cc.Texture2D"
+            ],
+            "2be36297-9abb-4fee-8049-9ed5e271da8a": [
+                "misc/default_video.mp4",
+                "cc.RawAsset"
+            ],
+            "b8223619-7e38-47c4-841f-9160c232495a": [
+                "obsolete/atom.plist",
+                "cc.ParticleAsset"
+            ],
+            "b2687ac4-099e-403c-a192-ff477686f4f5": [
+                "particle/atom.plist",
+                "cc.ParticleAsset"
+            ]
+        }
+    },
+    "launchScene": "db://assets/appScene.fire",
+    "scenes": [
+        {
+            "url": "db://assets/appScene.fire",
+            "uuid": "023af6ad-f846-4f48-89f9-0096df3c757e"
+        }
+    ],
+    "debug": true
+};
